@@ -1,0 +1,29 @@
+{
+    "remotePath": "./laravel.instcamp.axcode.com.mx",
+    "host": "instcamp.axcode.com.mx",
+    "username": "instcamp",
+    "password": "ic.2019#A",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "files",
+        "logs",
+        "tmp",
+        "tests",
+        "vendor"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
