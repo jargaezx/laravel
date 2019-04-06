@@ -8,7 +8,7 @@
       <input type="text" class="form-control" name="name" placeholder="Search..." value="{{request()->input('name')}}">
       <span class="input-group-btn">
           <button class="btn btn-default-sm" type="submit">
-              Buscar
+              Actualizar
           </button>
       </span>
   </div>
